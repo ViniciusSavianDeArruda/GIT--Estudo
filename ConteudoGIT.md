@@ -1,6 +1,6 @@
 # 📚 Git - Guia de Estudos
 
-Um guia completo sobre Git e controle de versão para iniciantes e desenvolvedores.
+Um guia completo sobre Git e controle de versão criado para estudo e para iniciantes e desenvolvedores.
 
 ## 📋 Índice
 
